@@ -1,0 +1,22 @@
+/* styles.css */
+
+.common-style {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+#unique1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#unique2 {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+
+}
